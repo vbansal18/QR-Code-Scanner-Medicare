@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MediCare</string>
+    <string name="SCAN">SCAN NOW</string>
+    <string name="scan_text">TAP BELOW TO SCAN</string>
+</resources>
